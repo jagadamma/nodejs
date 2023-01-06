@@ -298,3 +298,138 @@ ls
 vim appspec.yml 
 vim after_install.sh 
 vim app_start.sh
+cd
+ls
+rm -rf BidOnBuy/ client/
+ls
+git status
+git  add 
+git  add .
+git commit -m " added new files"
+git status
+git clone https://github.com/jagadamma/build.git
+ls
+vim appspec.yml 
+cd build
+ls
+cd build
+ls
+cd
+ls
+cd build 
+ls
+ls
+cd build
+ls
+cd ../
+cd
+ls
+pwd
+cd build
+ls
+cd build
+ls
+cd ../\
+cd ../
+ls
+mv build /root
+ls
+cd ../
+cd
+ls
+cd build
+ls
+ls
+cd build
+ls
+mv * > /root/super
+cd 
+ls
+cd build/
+ls
+cd build/
+ls
+mv * /root
+cd 
+ls
+rm -rf build
+ls
+ls
+ls
+ls
+git init
+ls
+git status
+git add .
+ls
+git commit -m "added all"
+git status
+git push https://github.com/jagadamma/app1.git
+git push --set-upstream https://github.com/jagadamma/app1.git master
+cd
+ls
+vim 
+ls
+vim before_install.sh 
+vim after_install.sh 
+vim appspec.yml 
+ls
+ls
+vim before_install.sh 
+vim after_install.sh 
+vim appspec.yml 
+vim appspec.yml 
+vim appspec.yml 
+vim after_install.sh 
+vim before_install.sh 
+node --version
+git init
+ sudo yum install automake fuse fuse-devel gcc-c++ git libcurl-devel libxml2-devel make openssl-devel
+git clone https://github.com/s3fs-fuse/s3fs-fuse.git
+ls
+cd  s3fs-fuse
+# ./autogen.sh 
+# ./configure — prefix=/usr — with-openssl
+# make 
+# ./autogen.sh 
+# ./configure — prefix=/usr — with-openssl
+ ./autogen.sh 
+ ./configure — prefix=/usr — with-openssl
+make 
+sudo make install
+which s3fs
+sudo amazon-linux-extras install epel
+s3fs
+cd
+s3fs
+sudo yum install s3fs-fuse
+s3fs
+echo"AKIAQMVASEQF27ACIOD7:YdJnOll3fSqysk9ZcnB5/YEF+fYbw+dslD3v3l4C">.passwd-s3fs
+echo "AKIAQMVASEQF27ACIOD7:YdJnOll3fSqysk9ZcnB5/YEF+fYbw+dslD3v3l4C"> .passwd-s3fs
+chmod 600 ${HOME}/.passwd-s3fs
+aws s3 ls
+ls
+cd s3fs-fuse/
+ls
+cd../
+cd
+ls
+clear
+lsd
+ls
+rm s3fs-fuse/
+rm -rf s3fs-fuse/
+clear
+ls
+yum install nginx
+cd /var
+ls
+cd /www
+cd /usr/share/nginx/html
+ls
+cd
+ls
+cp index.html /usr/share/nginx/html/
+cp index.html /usr/share/nginx/html/index.html
+cp index.html /usr/share/nginx/html/
+cp index.html /usr/share/nginx/index.html/
